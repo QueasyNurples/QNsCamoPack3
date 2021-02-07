@@ -1,0 +1,3 @@
+Place the .iwi files in: ".../your iw4x directory/userraw/images"   If you dont have userraw or images folder just create them.
+
+-QueasyNurples
